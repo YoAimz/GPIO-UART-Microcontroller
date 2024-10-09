@@ -1,6 +1,6 @@
 # Microcontroller Programming
 
-This repository contains a microcontroller programming project using Arduino/Freenove hardware, written in C/C++ using VSCode. The project avoids using Arduino's built-in software functions and focuses on direct manipulation of hardware registers.
+This repository contains a microcontroller programming project using Arduino/Freenove/ELEGOO UNO-R3/UNO-R3 (atmega328p) hardware, written in C/C++ using VSCode. The project avoids using Arduino's built-in software functions and focuses on direct manipulation of hardware registers.
 
 ## Part 1: Controlling an LED
 
